@@ -1,12 +1,15 @@
+
+# Dit is een preview! Het echte script zit in de zipfile.
+
 #-------------------------------------------------------------------------------
 # Name:        WS_tool damo
 # Purpose:     Beheren van velden en domeinen in DAMO.
-# Versie:      1.2
+# Version:     1.2
 #
 # Author:      Bart Kropf
 # Created:     08-04-2016
-# Copyright:   None
-# Site:        www.bkgis.nl
+# Copyright:   None !
+# More info:   www.bkgis.nl
 #-------------------------------------------------------------------------------
 
 # v1.1 notes
