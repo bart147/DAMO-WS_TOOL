@@ -7,4 +7,6 @@ Daarnaast voert het script een aantal checks uit op de database voor o.a. bestaa
 
 Gebruikers- en installatiehandleiding meegeleverd. De zipfile bevat alle gegevens die nodig zijn. 
 
-Installatie = uitpakken. Testdatabase damo 1.4 meegeleverd. Standaard (Editor) licentie vereist.
+Installatie = uitpakken. De tool kan meteen getest worden op de meegeleverde testdatabase.
+
+Standaard (Editor) licentie vereist.
