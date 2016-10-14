@@ -1,3 +1,6 @@
+
+# Dit is een preview! Het script voor bij de toolbox zit in de zipfile.
+
 #-------------------------------------------------------------------------------
 # Name:        WS_tool damo
 # Purpose:     Beheren van velden en domeinen in DAMO 1.4.
