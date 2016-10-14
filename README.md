@@ -9,4 +9,4 @@ Gebruikers- en installatiehandleiding meegeleverd. De zipfile bevat alle gegeven
 
 Installatie = uitpakken. De tool kan meteen getest worden op de meegeleverde testdatabase.
 
-Standaard (Editor) licentie vereist.
+Standaard (ArcEditor) licentie vereist.
